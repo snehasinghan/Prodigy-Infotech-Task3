@@ -1,17 +1,27 @@
-# Prodigy-Infotech-Task3
-Task 3 - Password Complexity Checker | Prodigy InfoTech Internship
-# 🔐 Password Complexity Checker
+# 🔐 Caesar Cipher Encryption & Decryption Tool
 
-Task 3 - Cyber Security Internship at Prodigy InfoTech
+This is a simple Python project that performs text encryption and decryption using the Caesar Cipher algorithm.
 
-## 💻 Technologies Used
-- HTML
-- CSS
-- JavaScript
+## 📌 What is Caesar Cipher?
+Caesar Cipher is one of the oldest encryption techniques. 
+It shifts each letter in the message by a fixed number of positions in the alphabet.
 
-## 📌 Features
-- Checks password length
-- Uppercase & lowercase validation
-- Number validation
-- Special character validation
-- Displays Weak, Medium, or Strong password
+Example:
+Message: hello
+Shift: 3
+Encrypted: khoor
+
+## 🚀 Features
+- Encrypt text
+- Decrypt text
+- Supports both uppercase and lowercase letters
+- Keeps special characters unchanged
+
+## 🛠 Technologies Used
+- Python 3
+
+## ▶️ How to Run
+
+1. Install Python
+2. Open terminal
+3. Run the file:
