@@ -1,27 +1,27 @@
-# 🔐 Caesar Cipher Encryption & Decryption Tool
+# 🔐 Password Complexity Checker
 
-This is a simple Python project that performs text encryption and decryption using the Caesar Cipher algorithm.
+Task 3 of Cyber Security Internship at Prodigy InfoTech.
 
-## 📌 What is Caesar Cipher?
-Caesar Cipher is one of the oldest encryption techniques. 
-It shifts each letter in the message by a fixed number of positions in the alphabet.
+## 📌 Project Description
+This project checks the strength of a password based on different security criteria and classifies it as Weak, Medium, or Strong.
 
-Example:
-Message: hello
-Shift: 3
-Encrypted: khoor
+## 💻 Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-## 🚀 Features
-- Encrypt text
-- Decrypt text
-- Supports both uppercase and lowercase letters
-- Keeps special characters unchanged
+## ⚙️ Features
+- Minimum length validation
+- Uppercase & lowercase letter check
+- Number validation
+- Special character validation
+- Real-time password strength result
 
-## 🛠 Technologies Used
-- Python 3
+## 🎯 Learning Outcome
+- JavaScript DOM manipulation
+- Regular expressions (RegEx)
+- Password security concepts
+- Frontend validation techniques
 
-## ▶️ How to Run
-
-1. Install Python
-2. Open terminal
-3. Run the file:
+## 📂 Internship
+Prodigy InfoTech – Cyber Security Internship
