@@ -23,5 +23,6 @@ This project checks the strength of a password based on different security crite
 - Password security concepts
 - Frontend validation techniques
 
-## 📂 Internship
-Prodigy InfoTech – Cyber Security Internship
+🏢 Internship
+
+This project was developed as part of the Cybersecurity Internship at Prodigy InfoTech.
